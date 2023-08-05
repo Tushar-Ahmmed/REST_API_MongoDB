@@ -1,0 +1,11 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  // "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
+  // "workbench.iconTheme": "Monokai Pro (Filter Octagon) Icons",
+  "workbench.colorTheme": "Dracula",
+  "editor.fontFamily": "fira code, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true
+}
